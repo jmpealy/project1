@@ -20,12 +20,12 @@ Research Questions to Answer:
 4) How common is extremely violent crime (for example: homicide)?
 
 Data Sets to be used:
-1) Chicago Data Portal: 
-    https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy/data
-    https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie/data
-    https://data.cityofchicago.org/Public-Safety/Crimes-2020/qzdf-xmn8/data
-    https://data.cityofchicago.org/Public-Safety/Crimes-2021/dwme-t96c/data
-    https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data
+1) Chicago Data Portal:   
+    https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy/data  
+    https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie/data  
+    https://data.cityofchicago.org/Public-Safety/Crimes-2020/qzdf-xmn8/data  
+    https://data.cityofchicago.org/Public-Safety/Crimes-2021/dwme-t96c/data  
+    https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data  
 
 Rough Breakdown of Tasks:
 1) Write Python code to read our 5 years of data into a data frame
