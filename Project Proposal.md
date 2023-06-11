@@ -17,10 +17,17 @@ Research Questions to Answer:
 1) What is the most and least prevalent type of crime in Chicago?
 2) What is the most and least prevalent type of crime by district in Chicago?
 3) How have rates of crimes changed from year to year?
-4) How common is extremely violent crime (for example: homicide)
+4) How common is extremely violent crime (for example: homicide)?
 
 Data Sets to be used:
-1) Chicago Data Portal: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+1) Chicago Data Portal: 
+    https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy/data
+    https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie/data
+    https://data.cityofchicago.org/Public-Safety/Crimes-2020/qzdf-xmn8/data
+    https://data.cityofchicago.org/Public-Safety/Crimes-2021/dwme-t96c/data
+    https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data
+
+
 2) Police Sentiment Scores: https://data.cityofchicago.org/Public-Safety/Police-Sentiment-Scores/28me-84fj
 
 Rough Breakdown of Tasks:
