@@ -27,9 +27,6 @@ Data Sets to be used:
     https://data.cityofchicago.org/Public-Safety/Crimes-2021/dwme-t96c/data
     https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data
 
-
-2) Police Sentiment Scores: https://data.cityofchicago.org/Public-Safety/Police-Sentiment-Scores/28me-84fj
-
 Rough Breakdown of Tasks:
 1) Write Python code to read our 5 years of data into a data frame
 2) Gain basic counts to understand the basic statistics for each year
