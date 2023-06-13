@@ -19,9 +19,8 @@ Research Questions to Answer:
 3) How have rates of crimes changed from year to year?
 4) How common is extremely violent crime (for example: homicide)?
 
-Data Sets to be used:
-=======
-1) Chicago Data Portal:   
+Data Sets to be Used:
+  Chicago Data Portal:   
     https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy/data  
     https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie/data  
     https://data.cityofchicago.org/Public-Safety/Crimes-2020/qzdf-xmn8/data  
