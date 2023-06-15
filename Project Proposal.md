@@ -7,7 +7,7 @@ David Kauffman
 Jason Pealy   
 Ralf Welvers
 
-#Project description/outline:
+Project description/outline:
 Identify most (and least) common types of crime that occurred in Chicago during the observed time period
 Analyze trends by district and year
 Include visual representation of trends of crime by type and crime by district
@@ -22,11 +22,11 @@ Research Questions to Answer:
 Data Sets to be used:
 
 Chicago Data Portal:
-https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy/data
-https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie/data
-https://data.cityofchicago.org/Public-Safety/Crimes-2020/qzdf-xmn8/data
-https://data.cityofchicago.org/Public-Safety/Crimes-2021/dwme-t96c/data
-https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data  
+https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy/data  
+https://data.cityofchicago.org/Public-Safety/Crimes-2019/w98m-zvie/data  
+https://data.cityofchicago.org/Public-Safety/Crimes-2020/qzdf-xmn8/data  
+https://data.cityofchicago.org/Public-Safety/Crimes-2021/dwme-t96c/data  
+https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp/data   
 https://data.cityofchicago.org/Health-Human-Services/Chicago-Population-Counts/85cm-7uqa/data 
 
 Rough Breakdown of Tasks:
