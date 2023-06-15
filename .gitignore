@@ -1,3 +1,6 @@
+#add large CSV file
+Resources/chicago_crimes_all_cleaned.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
