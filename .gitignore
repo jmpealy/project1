@@ -6,7 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-# Add config.py to be ignored
+# Ignore .csv
+*.csv
+
+# Config 
 config.py
 
 # Distribution / packaging
