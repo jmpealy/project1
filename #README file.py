@@ -13,7 +13,7 @@
 
 #https://www.macrotrends.net/countries/USA/united-states/murder-homicide-rate
 
-#https://www.cdc.gov/nchs/pressroom/sosmap/homicide_mortality/homicide.htm
+
 
 
 
