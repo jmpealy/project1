@@ -11,5 +11,11 @@
 
 #https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
 
+#https://www.macrotrends.net/countries/USA/united-states/murder-homicide-rate
+
+#https://www.cdc.gov/nchs/pressroom/sosmap/homicide_mortality/homicide.htm
+
+
+
 
 
