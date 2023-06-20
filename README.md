@@ -24,6 +24,7 @@ Another interesting insight is the location of crimes. We initially thought that
 ![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/5c80552d-4f11-4b66-aad5-0bd6da001070)
 ![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/cbdd5aa9-d26c-4bf7-8176-258a0e376a61)
 ![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/481ed9f0-23eb-43ce-baec-48a1bf9505b2)
+![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/8aa5a6d4-dc38-40f2-a6ec-298d90fe5cd8)
 
 To help us understand whether or not different districts of Chicago experience differing amounts and rates of crime we conducted two chi-squared tests. The first null hypothesis was that all areas of Chicago experience the same amount of crime. The results of this first test revealed that we can reject the null hypothesis. The first null hypothesis was that all areas of Chicago experience the same rate of crime. The results of this second test revealed that we cannot reject the null hypothesis. This is because the rates are so close together statistically.
 
