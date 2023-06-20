@@ -41,6 +41,7 @@ Overall crime numbers declined year over year from 2018-2021, but increased in 2
 The proportions of crime remained fairly steady over the observed time frame. The most notable difference is that as overall crime decreased, the rate of Assault and Battery as a proportion of crime increased, from 26.8% to 30.2%. The inverse is true for thefts of all types, which declined from 42.8% to 39.2%.
 
 Most categories of crime saw declines from 2018 to 2022 that were similar to the decline of total crimes, but there were some significant differences. Drug related crimes had by far the largest decline at 68.98%. On the other hand, arson (11.96%), homicide (19.73%), and weapons related crimes (58.56%) saw significant increases. Sexual related crimes didn’t follow a particular pattern compared to the rest of the data, but were about the same in 2022 as in 2018 (up 0.50%)
+![Sexual Crimes and Crimes Involving Children per Year](https://github.com/ralfwelvers/project1_chicago_crime/assets/127240852/3e6ad888-ae24-4fbf-9045-b1c919069254)
 
 Rates of heinous crime committed were relatively low in Chicago during this period in absolute terms, as well as on the basis of percentage of crimes committed, and on the number of occurrences per 1k people in the population.
 ![heinous_pie](https://github.com/ralfwelvers/project1_chicago_crime/assets/127240852/c31a2848-60a4-4671-9642-ef19716bb618)
