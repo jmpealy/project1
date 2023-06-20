@@ -44,10 +44,17 @@ We took a look at the total number of crimes committed in each district over the
 ![mapfinal](https://github.com/ralfwelvers/project1_chicago_crime/assets/127240852/5131715c-741a-47db-a068-88482502ca77)
 
 Overall crime numbers declined year over year from 2018-2021, but increased in 2022. The largest decrease was between 2019 and 2020, at 19.74%. The only increase was between 2021 and 2022, at 14.97%. Despite this increase in the final year, overall crime in 2022 was still 11.63% lower than in 2018.
+![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/284145c4-c16e-4f35-b6be-00e6116af7a2)
+![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/bf82dc1e-d868-4e91-99c6-eab9985cb7d0)
 
 The proportions of crime remained fairly steady over the observed time frame. The most notable difference is that as overall crime decreased, the rate of Assault and Battery as a proportion of crime increased, from 26.8% to 30.2%. The inverse is true for thefts of all types, which declined from 42.8% to 39.2%.
+![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/379f6fed-dd48-4f06-8305-d0faa7f43046)
 
 Most categories of crime saw declines from 2018 to 2022 that were similar to the decline of total crimes, but there were some significant differences. Drug related crimes had by far the largest decline at 68.98%. On the other hand, arson (11.96%), homicide (19.73%), and weapons related crimes (58.56%) saw significant increases. Sexual related crimes didn’t follow a particular pattern compared to the rest of the data, but were about the same in 2022 as in 2018 (up 0.50%)
+![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/05c1acef-8223-4d86-a2dd-e890018e0442)
+![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/5af42296-6f94-491b-a585-b2a705e53b77)
+![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/1a838603-94dc-41c0-922d-258f866f5591)
+
 
 ![Sexual Crimes and Crimes Involving Children per Year](https://github.com/ralfwelvers/project1_chicago_crime/assets/127240852/3e6ad888-ae24-4fbf-9045-b1c919069254)
 
