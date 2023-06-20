@@ -21,6 +21,7 @@ As current and former residents of Chicago our core interest was to better under
 We began our analysis at a high level and with each question we went deeper in the data. As it turns out, theft crimes are the number one crime type in Chicago at 41.7% of all crime. Homicides, on the other hand, represent only 0.3% of all crime.
 
 Another interesting insight is the location of crimes. We initially thought that most crime occurred on the south side. Turns out district 11 has the highest instance of crime. District 11 is just west of downtown.
+![image](https://github.com/ralfwelvers/project1_chicago_crime/assets/131560690/5c80552d-4f11-4b66-aad5-0bd6da001070)
 
 To help us understand whether or not different districts of Chicago experience differing amounts and rates of crime we conducted two chi-squared tests. The first null hypothesis was that all areas of Chicago experience the same amount of crime. The results of this first test revealed that we can reject the null hypothesis. The first null hypothesis was that all areas of Chicago experience the same rate of crime. The results of this second test revealed that we cannot reject the null hypothesis. This is because the rates are so close together statistically.
 
