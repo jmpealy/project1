@@ -46,6 +46,7 @@ Rates of heinous crime committed were relatively low in Chicago during this peri
 ![heinous_pie](https://github.com/ralfwelvers/project1_chicago_crime/assets/127240852/c31a2848-60a4-4671-9642-ef19716bb618)
 
 The number of reported instances of Arson saw a noticeable uptick from 2019 to 2020 before dropping off sharply in 2021 and again in 2022.  Homicides similarly saw a large increase in occurrences from 2019 to 2020 but - unlike Arson - continued to rise through 2021 before dropping off sharply from 2021 to 2022 (albeit still at a significantly higher level than in 2019).  The number of reported kidnappings fell in each year except from 2021 to 2022 where they rose back to 2020 levels.
+![heinous_percent (1)](https://github.com/ralfwelvers/project1_chicago_crime/assets/127240852/11779dbc-ab58-4d10-a289-a0de13b83e77)
 
 Overall levels of reported crime actually fell in each subsequent year during the data sample except in the final year (2022).  As a percentage of crimes committed, heinous crimes increased in the first two periods (2018 to 2019 and 2019 to 2020) before falling from 2020 onwards.
 ![typecounts_df_all](https://github.com/ralfwelvers/project1_chicago_crime/assets/127240852/7081987e-e14d-4041-93bf-76f11166d7a5)
