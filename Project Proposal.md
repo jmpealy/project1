@@ -15,8 +15,8 @@ Ralf Welvers
 
 Research Questions to Answer:
 1) What is the most and least prevalent type of crime in Chicago?
-2) What is the most and least prevalent type of crime by district in Chicago?
-3) How have rates of crimes changed from year to year?
+2) Are certain areas most prone to crime than others?
+3) How has crime changed over time?
 4) How common is extremely violent crime (for example: homicide)?
 
 Data Sets to be Used:
